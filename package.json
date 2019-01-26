@@ -1,0 +1,13 @@
+{
+    "name": "shelly-project",
+    "version": "1.0.0",
+    "description": "my project",
+    "author": "shelly",
+    "scripts": {
+        "server": "live-server --port=8080",
+        "test": "jasmine-node --verbose specs"
+    },
+    "dependencies": {
+        "live-server": "1.2.1"
+    }
+}
