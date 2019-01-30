@@ -4,7 +4,7 @@
     "description": "my project",
     "author": "shelly",
     "scripts": {
-        "server": "live-server --port=8080",
+        "server": "live-server --port=8083",
         "test": "jasmine-node --verbose specs"
     },
     "dependencies": {
